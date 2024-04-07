@@ -1,7 +1,12 @@
 # Create React App using Vite
  - Configure Tailwind CSS 
 
-
+ - Create Login page 
+   - signup page 
+   - Header
+   - Routing 
+   - Form Validation
+   - useRef hook
  # Feature 
   - Sign in / Sign up  page 
      - Redirect to browse page after authentication.
